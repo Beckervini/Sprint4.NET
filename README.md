@@ -1,5 +1,4 @@
 # Sprint4-2semestre API
-Link github: 
 
 RM98163 - Júlia Martins Santana Figueiredo  
 RM550562 - Larissa Akemi Iwamoto  
