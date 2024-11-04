@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprint1-2semestre", "Sprint1-2semestre.csproj", "{391094E0-4CF4-4B90-AEA8-2C71D1A7A06D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprint1-2sem.Tests", "Sprint1-2sem.Tests\Sprint1-2sem.Tests.csproj", "{2C0728EF-FDAC-4F5A-8FF4-E029FBD13160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{391094E0-4CF4-4B90-AEA8-2C71D1A7A06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391094E0-4CF4-4B90-AEA8-2C71D1A7A06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391094E0-4CF4-4B90-AEA8-2C71D1A7A06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391094E0-4CF4-4B90-AEA8-2C71D1A7A06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0728EF-FDAC-4F5A-8FF4-E029FBD13160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0728EF-FDAC-4F5A-8FF4-E029FBD13160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0728EF-FDAC-4F5A-8FF4-E029FBD13160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0728EF-FDAC-4F5A-8FF4-E029FBD13160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CA162F6-587A-40D3-B0A4-A269AED2DD67}
+	EndGlobalSection
+EndGlobal
